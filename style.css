@@ -1,0 +1,24 @@
+.btn {
+  background-color: greenyellow;
+  display: inline-block;
+  margin: 30px;
+  padding: 15px;
+  border-radius: 15px;
+  cursor: pointer;
+  color: #191960;
+}
+
+.dropdown {
+  display: inline-block;
+  background-color: #000000;
+  color: #ffffff;
+  padding: 15px;
+}
+
+.hidden{
+  display: none;
+}
+
+.open{
+  background-color: darkred;
+}
